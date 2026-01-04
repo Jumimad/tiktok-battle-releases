@@ -51,7 +51,7 @@ Para superar las restricciones de seguridad de los navegadores modernos (Chromiu
 
 | Dashboard de Control | Configuración de Equipos | Overlay  |
 |:---:|:---:|:---:|
-| ![Dashboard](public/assets/docs/ss_dashboard.png) | ![Teams](public/assets/docs/ss_teams.png) | ![OBS](public/assets/docs/ss_obs.png) |
+| ![Dashboard](docs/ss_dashboard.png) | ![Teams](docs/ss_teams.png) | ![OBS](docs/ss_obs.png) |
 
 ---
 
